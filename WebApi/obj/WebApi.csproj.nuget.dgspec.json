@@ -1,0 +1,319 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/WebApi/WebApi.csproj": {}
+  },
+  "projects": {
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/Business.csproj",
+        "projectName": "Business",
+        "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/Business.csproj",
+        "packagesPath": "/Users/cenkkiran/.nuget/packages/",
+        "outputPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cenkkiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj"
+              },
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj",
+        "projectName": "Core",
+        "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj",
+        "packagesPath": "/Users/cenkkiran/.nuget/packages/",
+        "outputPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cenkkiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj",
+        "projectName": "DataAccess",
+        "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj",
+        "packagesPath": "/Users/cenkkiran/.nuget/packages/",
+        "outputPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cenkkiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj",
+        "packagesPath": "/Users/cenkkiran/.nuget/packages/",
+        "outputPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cenkkiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/WebApi/WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/WebApi/WebApi.csproj",
+        "projectName": "WebApi",
+        "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/WebApi/WebApi.csproj",
+        "packagesPath": "/Users/cenkkiran/.nuget/packages/",
+        "outputPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/WebApi/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/cenkkiran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/Business.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Business/Business.csproj"
+              },
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Core/Core.csproj"
+              },
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/DataAccess.csproj"
+              },
+              "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj": {
+                "projectPath": "/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

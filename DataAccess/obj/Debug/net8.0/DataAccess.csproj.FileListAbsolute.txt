@@ -1,0 +1,17 @@
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/DataAccess.deps.json
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/DataAccess.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/DataAccess.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/Core.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/Entities.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/Entities.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/bin/Debug/net8.0/Core.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.csproj.AssemblyReference.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.csproj.CopyComplete
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/refint/DataAccess.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/DataAccess.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/DataAccess/obj/Debug/net8.0/ref/DataAccess.dll

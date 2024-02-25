@@ -1,0 +1,15 @@
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/bin/Debug/net8.0/Entities.deps.json
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/bin/Debug/net8.0/Entities.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/bin/Debug/net8.0/Entities.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/bin/Debug/net8.0/Core.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/bin/Debug/net8.0/Core.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.csproj.AssemblyReference.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.AssemblyInfoInputs.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.AssemblyInfo.cs
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.csproj.CoreCompileInputs.cache
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.csproj.CopyComplete
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/refint/Entities.dll
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/Entities.pdb
+/Users/cenkkiran/Desktop/PratiklerDotNet/WebApiDemo/Entities/obj/Debug/net8.0/ref/Entities.dll
